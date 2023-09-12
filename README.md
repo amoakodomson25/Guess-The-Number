@@ -3,7 +3,6 @@
 Language: Python. 
 
 
-
-Project Level: Beginner
+Project Level: Beginner.
 
 Happy Coding!
